@@ -79,7 +79,7 @@ public class MainActivity extends Activity {
 		mTextStatus.setText(getResources().getString(R.string.bt_state_init));
 
 
-
+        /*
         ParseObject testDBdata = new ParseObject("dataTestMH");
         testDBdata.put("drinkflag", "D");
         testDBdata.put("year", 2015);
@@ -91,6 +91,7 @@ public class MainActivity extends Activity {
         testDBdata.put("watervolume", 300);
         testDBdata.put("watertemp", 25.5);
         testDBdata.saveInBackground();
+        */
 
     }
 
