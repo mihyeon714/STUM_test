@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\LG\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\LG\AndroidStudioProjects\BTAndroidex1\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-12ff4430390841782f0c591d23e167935b619e3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\LG\AndroidStudioProjects\BTAndroidex1\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\LG\AndroidStudioProjects\BTAndroidex1\app\build\intermediates\pre-dexed\debug\Parse-1.9.1-b5c227b745ff0b3b5c7b2b35672e6312bb0d7631.jar" />
+    </item>
+    <item
+        jar="C:\Users\LG\AndroidStudioProjects\BTAndroidex2\app\libs\Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="C:\Users\LG\AndroidStudioProjects\BTAndroidex2\app\build\intermediates\pre-dexed\debug\Parse-1.9.1-7c279384d503c50798f1614cd22a8163eddd76a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\LG\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.0\support-v4-19.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="C:\Users\LG\AndroidStudioProjects\BTAndroidex1\app\build\intermediates\pre-dexed\debug\support-v4-19.0.0-4ff3474b92670e70dff2171a93d6d10fd40fedcd.jar" />
+    </item>
+
+</items>
